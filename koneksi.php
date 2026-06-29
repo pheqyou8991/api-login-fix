@@ -1,5 +1,5 @@
 <?php
-$host = "reseau.proxy.rlwy.net"; 
+$host = "mysql"; 
 $user = "root";            
 $pass = "UGJOfyHsgXzsOAofwXkAVxrpNzQqmnld";   
 $db   = "railway";   
